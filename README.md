@@ -2,12 +2,12 @@
 To see the project in action, check it out [here](https://raccai.github.io/Weight-Converter-R/), [here](https://raccai.github.io/Weight-Converter-R/), and [here](https://raccai.github.io/Weight-Converter-R/). <br /><br />
 
 The Weight Converter found on the site converts a weight from one unit to 5 other units. The available units are as follows: 
--Ounces
--Kilograms
--Grams
--Stones
--Tons
--Pounds
+- Ounces
+- Kilograms
+- Grams
+- Stones
+- Tons
+- Pounds
 
 #Okay, but how to use? 😩
 Using it is simple! Simply click any of the input fields--or hit TAB on your keyboard to focus any of them--and type in the weight you want converted. <br /><br /> 

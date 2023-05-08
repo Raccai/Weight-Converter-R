@@ -26,4 +26,14 @@ When that's done, input the following code: <br />
 ```
 npm run dev
 ```
-With that you're good to go. Get converting!🔃⌨️😶‍🌫️
+
+## About the Project
+### Made With
+1. HTML
+2. CSS
+3. JavaScript
+4. Svelte Framework
+
+## Note
+The resources used, from custom fonts to background images and svg icons, are for personal use. All rights and credit go directly to its rightful owners.
+<br /> <br /> With that you're good to go. Get converting!🔃⌨️😶‍🌫️
